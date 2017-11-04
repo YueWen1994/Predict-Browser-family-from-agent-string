@@ -2,10 +2,9 @@
 This repo contains the report and Python code to predict browser family from its agents string.
 
 ##Author:
----------
 Yue Wen
+
 ##Prerequisites:
---------------
 1.Python 2/3 with the following libararies installed:
 
 pandas
@@ -17,7 +16,6 @@ sklearn
 
 
 ##Running the tests:
-------------------
 
 1.Open the python termial with necessary libraries installed
 
